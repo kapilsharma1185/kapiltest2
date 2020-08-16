@@ -1,0 +1,104 @@
+study material 
+
+
+docker 
+kubernet
+terraform 
+ansible
+aws cloud
+google cloud-gcp
+
+
+docker 
+---------------------------------------
+udemy course
+
+docker book - nigal poulton 
+
+practical -on GCP 
+
+kubernet
+----------------------------------------
+udemy course
+kubernet book - nigal poulton 
+play with kubernet -https://labs.play-with-k8s.com/
+
+practical -on GCP 
+
+terraform
+----------------------------------------- 
+terraform up and running
+udemy course
+
+
+
+cloud formation
+---------------------------------
+acloud guru 
+
+ 
+ansible 
+------------------------
+linked learing , a cloud guru 
+
+
+AWS 
+---------------------------
+acloud guru 
+migration -Linux acadamy 
+s3 master class 
+RDS course
+AWS networking spacility 
+
+google cloud-gcp
+-------------------------
+acloud guru 
+
+
+python 
+--------------------------
+you tuble video -code with harry
+
+
+git and git hub
+-------------------------
+you tube video -code with harry
+
+
+linux 
+----------------------------
+you tube video -code with harry
+
+
+
+book reference
+site relivility enginner 
+AWS solution archtect associate
+AWS networking spcility
+docker by naigel
+kubernet by nigel
+
+infrasture as code
+cloud native infrasture
+terraform up and running 
+docker deep dive
+the kubernet book 
+pro git
+learn python the hardway 
+
+
+website 
+safari o really
+lined learing
+coursera 
+acloudguru
+linux acady
+plural site
+
+
+
+
+
+
+
+
